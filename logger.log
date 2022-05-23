@@ -1,0 +1,257 @@
+INFO:werkzeug: * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 723-970-013
+INFO:root:Открытие главной страницы
+INFO:werkzeug:127.0.0.1 - - [23/May/2022 19:59:17] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/May/2022 19:59:18] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Открытие страницы /post
+INFO:werkzeug:127.0.0.1 - - [23/May/2022 19:59:19] "GET /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/May/2022 19:59:19] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Файл загружен
+INFO:werkzeug:127.0.0.1 - - [23/May/2022 19:59:28] "POST /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/May/2022 19:59:28] "[33mGET /uploads/images/images.jpeg HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [23/May/2022 19:59:28] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Открытие страницы /post
+INFO:werkzeug:127.0.0.1 - - [23/May/2022 19:59:31] "GET /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/May/2022 19:59:31] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Открытие главной страницы
+INFO:werkzeug:127.0.0.1 - - [23/May/2022 19:59:35] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/May/2022 19:59:35] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 723-970-013
+INFO:werkzeug: * Detected change in 'C:\\Users\\evmid\\Desktop\\Skypro_Masha\\zadanie 12\\main\\blueprints.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 723-970-013
+INFO:root:Файл загружен
+INFO:werkzeug:127.0.0.1 - - [23/May/2022 20:01:21] "[35m[1mPOST /post HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [23/May/2022 20:01:21] "[36mGET /post?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [23/May/2022 20:01:21] "[36mGET /post?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [23/May/2022 20:01:21] "[36mGET /post?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [23/May/2022 20:01:21] "[36mGET /post?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 723-970-013
+INFO:root:Файл загружен
+INFO:werkzeug:127.0.0.1 - - [23/May/2022 20:02:05] "[35m[1mPOST /post HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [23/May/2022 20:02:05] "[36mGET /post?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [23/May/2022 20:02:05] "[36mGET /post?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [23/May/2022 20:02:05] "[36mGET /post?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [23/May/2022 20:02:05] "[36mGET /post?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 723-970-013
+INFO:root:Файл загружен
+INFO:werkzeug:127.0.0.1 - - [23/May/2022 20:04:31] "POST /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/May/2022 20:04:31] "[33mGET /uploads/images/images.jpeg HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [23/May/2022 20:04:31] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 723-970-013
+INFO:root:Открытие страницы /post
+INFO:werkzeug:127.0.0.1 - - [23/May/2022 20:05:45] "GET /post HTTP/1.1" 200 -
+INFO:root:Файл загружен
+INFO:werkzeug:127.0.0.1 - - [23/May/2022 20:05:46] "POST /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/May/2022 20:05:46] "[33mGET /uploads/images/images.jpeg HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [23/May/2022 20:05:47] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 723-970-013
+INFO:root:Открытие страницы /post
+INFO:werkzeug:127.0.0.1 - - [23/May/2022 20:07:07] "GET /post HTTP/1.1" 200 -
+INFO:root:Файл загружен
+INFO:werkzeug:127.0.0.1 - - [23/May/2022 20:07:09] "POST /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/May/2022 20:07:09] "[33mGET /uploads/images/images.jpeg HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [23/May/2022 20:07:09] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Открытие страницы /post
+INFO:werkzeug:127.0.0.1 - - [23/May/2022 20:07:48] "GET /post HTTP/1.1" 200 -
+INFO:root:Файл загружен
+INFO:werkzeug:127.0.0.1 - - [23/May/2022 20:07:50] "POST /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/May/2022 20:07:50] "[33mGET /uploads/images/images.jpeg HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [23/May/2022 20:07:50] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 723-970-013
+INFO:werkzeug:127.0.0.1 - - [23/May/2022 20:08:24] "[33mGET /index.html HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [23/May/2022 20:08:27] "[33mGET /index.html HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [23/May/2022 20:08:29] "[33mGET /index.html HTTP/1.1[0m" 404 -
+INFO:root:Открытие главной страницы
+INFO:werkzeug:127.0.0.1 - - [23/May/2022 20:08:32] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/May/2022 20:08:32] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Открытие страницы /search
+INFO:werkzeug:127.0.0.1 - - [23/May/2022 20:08:36] "GET /search?s=путин HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/May/2022 20:08:36] "[33mGET /uploads/images/images.jpeg HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [23/May/2022 20:08:36] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 723-970-013
+INFO:root:Файл загружен
+INFO:werkzeug:127.0.0.1 - - [23/May/2022 20:11:26] "POST /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/May/2022 20:11:26] "[33mGET /uploads/images/images.jpeg HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [23/May/2022 20:11:27] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Открытие страницы /post
+INFO:werkzeug:127.0.0.1 - - [23/May/2022 20:11:28] "GET /post HTTP/1.1" 200 -
+INFO:root:Файл не был загружен - недопустимое расширение или файла нет
+INFO:werkzeug:127.0.0.1 - - [23/May/2022 20:11:32] "POST /post HTTP/1.1" 200 -
+INFO:root:Открытие страницы /post
+INFO:werkzeug:127.0.0.1 - - [23/May/2022 20:11:35] "GET /post HTTP/1.1" 200 -
+INFO:root:Файл загружен
+INFO:werkzeug:127.0.0.1 - - [23/May/2022 20:11:39] "POST /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/May/2022 20:11:39] "[33mGET /uploads/images/images.jpeg HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [23/May/2022 20:11:39] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\evmid\\Desktop\\Skypro_Masha\\zadanie 12\\main\\blueprints.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 723-970-013
+INFO:root:Файл загружен
+INFO:werkzeug:127.0.0.1 - - [23/May/2022 20:12:38] "POST /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/May/2022 20:12:38] "GET /static/uploads/images/images.jpeg HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/May/2022 20:12:38] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [23/May/2022 20:12:42] "[33mGET /index.html HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [23/May/2022 20:12:48] "[33mGET /index.html HTTP/1.1[0m" 404 -
+INFO:root:Открытие главной страницы
+INFO:werkzeug:127.0.0.1 - - [23/May/2022 20:12:53] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/May/2022 20:12:53] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Открытие страницы /search
+INFO:werkzeug:127.0.0.1 - - [23/May/2022 20:13:10] "GET /search?s=Путин HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/May/2022 20:13:10] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [23/May/2022 20:13:10] "[33mGET /uploads/images/images.jpeg HTTP/1.1[0m" 404 -
+INFO:root:Открытие главной страницы
+INFO:werkzeug:127.0.0.1 - - [23/May/2022 20:13:18] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/May/2022 20:13:18] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Открытие страницы /post
+INFO:werkzeug:127.0.0.1 - - [23/May/2022 20:13:19] "GET /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/May/2022 20:13:19] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Файл загружен
+INFO:werkzeug:127.0.0.1 - - [23/May/2022 20:13:31] "POST /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/May/2022 20:13:31] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [23/May/2022 20:13:31] "GET /static/uploads/images/images.jpeg HTTP/1.1" 200 -
+INFO:root:Открытие главной страницы
+INFO:werkzeug:127.0.0.1 - - [23/May/2022 20:13:33] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/May/2022 20:13:33] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Открытие страницы /search
+INFO:werkzeug:127.0.0.1 - - [23/May/2022 20:13:37] "GET /search?s=Путин HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/May/2022 20:13:37] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [23/May/2022 20:13:37] "[33mGET /uploads/images/images.jpeg HTTP/1.1[0m" 404 -
+INFO:root:Открытие страницы /search
+INFO:werkzeug:127.0.0.1 - - [23/May/2022 20:16:22] "GET /search?s=Путин HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/May/2022 20:16:22] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [23/May/2022 20:16:22] "[33mGET /uploads/images/images.jpeg HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 723-970-013
+INFO:root:Открытие главной страницы
+INFO:werkzeug:127.0.0.1 - - [23/May/2022 20:17:14] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/May/2022 20:17:14] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Открытие страницы /post
+INFO:werkzeug:127.0.0.1 - - [23/May/2022 20:17:15] "GET /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/May/2022 20:17:15] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Файл загружен
+INFO:werkzeug:127.0.0.1 - - [23/May/2022 20:17:25] "[35m[1mPOST /post HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [23/May/2022 20:17:25] "[36mGET /post?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [23/May/2022 20:17:25] "[36mGET /post?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [23/May/2022 20:17:25] "[36mGET /post?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [23/May/2022 20:17:25] "[36mGET /post?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:root:Открытие главной страницы
+INFO:werkzeug:127.0.0.1 - - [23/May/2022 20:17:34] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/May/2022 20:17:34] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Открытие страницы /search
+INFO:werkzeug:127.0.0.1 - - [23/May/2022 20:17:38] "[35m[1mGET /search?s=Утро HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [23/May/2022 20:17:38] "[36mGET /search?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [23/May/2022 20:17:38] "[36mGET /search?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [23/May/2022 20:17:38] "[36mGET /search?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [23/May/2022 20:17:38] "[36mGET /search?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\evmid\\Desktop\\Skypro_Masha\\zadanie 12\\main\\utils.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 723-970-013
+INFO:root:Открытие страницы /search
+INFO:werkzeug:127.0.0.1 - - [23/May/2022 20:17:49] "[35m[1mGET /search?s=Утро HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [23/May/2022 20:17:50] "[36mGET /search?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [23/May/2022 20:17:50] "[36mGET /search?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [23/May/2022 20:17:50] "[36mGET /search?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:root:Открытие страницы /search
+INFO:werkzeug:127.0.0.1 - - [23/May/2022 20:18:56] "[35m[1mGET /search?s=путин HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [23/May/2022 20:18:56] "[36mGET /search?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [23/May/2022 20:18:56] "[36mGET /search?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [23/May/2022 20:18:57] "[36mGET /search?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:root:Открытие страницы /post
+INFO:werkzeug:127.0.0.1 - - [23/May/2022 20:19:00] "GET /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/May/2022 20:19:00] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Файл загружен
+INFO:werkzeug:127.0.0.1 - - [23/May/2022 20:19:06] "[35m[1mPOST /post HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [23/May/2022 20:19:06] "[36mGET /post?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [23/May/2022 20:19:06] "[36mGET /post?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [23/May/2022 20:19:06] "[36mGET /post?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [23/May/2022 20:19:06] "[36mGET /post?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 723-970-013
+INFO:root:Открытие главной страницы
+INFO:werkzeug:127.0.0.1 - - [23/May/2022 20:23:03] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/May/2022 20:23:04] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Открытие страницы /post
+INFO:werkzeug:127.0.0.1 - - [23/May/2022 20:23:06] "GET /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/May/2022 20:23:06] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Файл загружен
+INFO:werkzeug:127.0.0.1 - - [23/May/2022 20:23:16] "POST /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/May/2022 20:23:16] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [23/May/2022 20:23:16] "GET /static/uploads/images/images.jpeg HTTP/1.1" 200 -
+INFO:root:Открытие главной страницы
+INFO:werkzeug:127.0.0.1 - - [23/May/2022 20:23:20] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/May/2022 20:23:20] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Открытие страницы /search
+INFO:werkzeug:127.0.0.1 - - [23/May/2022 20:23:24] "GET /search?s=утро HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/May/2022 20:23:24] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Открытие главной страницы
+INFO:werkzeug:127.0.0.1 - - [23/May/2022 20:23:28] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/May/2022 20:23:28] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Открытие страницы /search
+INFO:werkzeug:127.0.0.1 - - [23/May/2022 20:23:31] "GET /search?s=Утром HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/May/2022 20:23:31] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Открытие главной страницы
+INFO:werkzeug:127.0.0.1 - - [23/May/2022 20:23:34] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/May/2022 20:23:34] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Открытие страницы /search
+INFO:werkzeug:127.0.0.1 - - [23/May/2022 20:23:37] "GET /search?s=Путин HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/May/2022 20:23:37] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [23/May/2022 20:23:37] "[36mGET /static/uploads/images/images.jpeg HTTP/1.1[0m" 304 -
+INFO:root:Открытие главной страницы
+INFO:werkzeug:127.0.0.1 - - [23/May/2022 20:23:43] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/May/2022 20:23:43] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\evmid\\Desktop\\Skypro_Masha\\zadanie 12\\config.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 723-970-013
+INFO:werkzeug: * Detected change in 'C:\\Users\\evmid\\Desktop\\Skypro_Masha\\zadanie 12\\config.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 723-970-013
+INFO:werkzeug: * Detected change in 'C:\\Users\\evmid\\Desktop\\Skypro_Masha\\zadanie 12\\main\\utils.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 723-970-013
+INFO:werkzeug: * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 243-501-510
+INFO:root:Открытие страницы /search
+INFO:werkzeug:127.0.0.1 - - [23/May/2022 20:29:05] "GET /search?s=ПУТИН HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/May/2022 20:29:05] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Открытие главной страницы
+INFO:werkzeug:127.0.0.1 - - [23/May/2022 20:29:06] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/May/2022 20:29:06] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Открытие страницы /search
+INFO:werkzeug:127.0.0.1 - - [23/May/2022 20:29:08] "GET /search?s=УТРОМ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/May/2022 20:29:08] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
